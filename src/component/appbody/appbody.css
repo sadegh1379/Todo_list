@@ -1,0 +1,38 @@
+.table{
+   margin: 0 auto !important;
+  
+   width: 50%;
+   height: 50%;
+}
+.table tr a td{
+   width: 275px;
+   height: 300px;
+   margin: 200px;
+   padding-top: 50px;
+   transition:all 0.5s ease ;
+   -webkit-transition:all 0.5s ease ;
+   -moz-transition:all 0.5s ease ;
+   -ms-transition:all 0.5s ease ;
+   -o-transition:all 0.5s ease ;
+   
+}
+.table tr td:hover{
+    background-color: rgb(124, 100, 48);
+    box-shadow:  0 0 50px rgb(236, 173, 37) inset;
+   
+    color:white;
+ }
+.table tr{
+    margin: 0 auto;
+}
+#table{
+    margin-top: 30px;
+   
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+    
+}
