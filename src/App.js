@@ -4,7 +4,7 @@ import './component/bootstrap/bootstrap.css';
 function App() {
   return (
     <div>
-      <h1 className="text-center text-white">Wall App</h1>
+      <h1 className="text-center text-white">Fashion Store</h1>
     </div>
   )
 }
